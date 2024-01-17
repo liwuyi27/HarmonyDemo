@@ -1,0 +1,10 @@
+{
+  "name": "library",
+  "version": "1.0.1",
+  "description": "Please describe the basic information.",
+  "main": "index.ets",
+  "author": "liwuyi27",
+  "license": "MIT",
+  "dependencies": {},
+  "repository": "https://github.com/liwuyi27/HarmonyDemo.git"
+}
